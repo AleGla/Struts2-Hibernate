@@ -1,0 +1,8 @@
+hibernate\dao\ClubDAO.class
+test\Test.class
+beans\action\ModificarJugadorAction.class
+beans\action\AgregarJugadorAction.class
+hibernate\dao\JugadorDAO.class
+hibernate\domain\Jugador.class
+hibernate\domain\Club.class
+beans\action\indexAgregarAction.class
